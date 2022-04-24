@@ -1,8 +1,8 @@
 # Crypto_news
 
 ## Images
- <img src = "crypto_news_featured.png" width="100" >
-<img src = "crypto_news_home.png" width="100" >
+ <img src = "images/crypto_news_featured.png" width="100" >
+<img src = "images/crypto_news_home.png" width="100" >
 ## Available Scripts
 
  React application created to keep track of the latest
